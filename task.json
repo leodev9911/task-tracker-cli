@@ -1,0 +1,16 @@
+[
+    {
+        "id": "e574a5a5-3d79-4fdc-9e76-987ff26a23b5",
+        "description": "My first task",
+        "status": "todo",
+        "createdAt": "2025-08-06T01:49:34.817Z",
+        "updatedAt": null
+    },
+    {
+        "id": "b09068b8-f0cd-42ea-acc4-4938f1fb1d82",
+        "description": "Second Task",
+        "status": "todo",
+        "createdAt": "2026-02-04T21:31:02.759Z",
+        "updatedAt": null
+    }
+]
